@@ -1,10 +1,14 @@
+import useCities from "../hooks/useCities";
+
 import CityItem from "./CityItem";
 import Spinner from "./Spinner";
 import Message from "./Message";
 
 import styles from "./CityList.module.css";
 
-function CityList({ cities, isLoading }) {
+function CityList() {
+  const { cities, isLoading } = useCities();
+
   if (isLoading) return <Spinner />;
 
   if (!cities.length)
