@@ -35,6 +35,138 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
+    },
+    {
+      "cityName": "Wartkowice",
+      "country": "Poland",
+      "emoji": "🇵🇱",
+      "date": "2023-08-08T23:15:36.854Z",
+      "notes": "",
+      "position": {
+        "lat": "51.998410382390325",
+        "lng": "19.04658154877769"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Ventrosa",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-08-08T23:16:23.427Z",
+      "notes": "",
+      "position": {
+        "lat": "42.13082130188811",
+        "lng": "-2.8153052204817457"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Truchas",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-08-08T23:18:14.027Z",
+      "notes": "",
+      "position": {
+        "lat": "42.24478535602799",
+        "lng": "-6.483912573519778"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Belver de los Montes",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-08-08T23:19:19.570Z",
+      "notes": "",
+      "position": {
+        "lat": "41.68932225997044",
+        "lng": "-5.409324682281245"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Seniergues",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-08-08T23:19:51.755Z",
+      "notes": "",
+      "position": {
+        "lat": "44.731125592643274",
+        "lng": "1.554288235229353"
+      },
+      "id": 98443202
+    },
+    {
+      "cityName": "Besson",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-08-08T23:20:25.834Z",
+      "notes": "",
+      "position": {
+        "lat": "46.46813299215556",
+        "lng": "3.269741271837786"
+      },
+      "id": 98443203
+    },
+    {
+      "cityName": "Saint-Martin-la-Pallu",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-08-08T23:21:42.308Z",
+      "notes": "",
+      "position": {
+        "lat": "46.694667307773116",
+        "lng": "0.19502198131528647"
+      },
+      "id": 98443204
+    },
+    {
+      "cityName": "Hijar",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-08-08T23:21:56.055Z",
+      "notes": "",
+      "position": {
+        "lat": "41.22824901518532",
+        "lng": "-0.5967399256181039"
+      },
+      "id": 98443205
+    },
+    {
+      "cityName": "Alarcon",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-08-08T23:23:01.926Z",
+      "notes": "SALAM",
+      "position": {
+        "lat": "39.57182223734374",
+        "lng": "-1.9807773930323695"
+      },
+      "id": 98443206
+    },
+    {
+      "cityName": "Blazquez",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-08-08T23:23:23.538Z",
+      "notes": "",
+      "position": {
+        "lat": "38.46219172306828",
+        "lng": "-5.4518240735353105"
+      },
+      "id": 98443207
+    },
+    {
+      "cityName": "Viseu",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2023-08-26T23:24:24.000Z",
+      "notes": "My birthday!",
+      "position": {
+        "lat": "40.61661104371896",
+        "lng": "-7.891855034332994"
+      },
+      "id": 98443208
     }
   ]
 }
