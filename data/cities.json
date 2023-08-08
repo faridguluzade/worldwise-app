@@ -13,18 +13,6 @@
       "id": 73930385
     },
     {
-      "cityName": "Madrid",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
-      "notes": "",
-      "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
-      },
-      "id": 17806751
-    },
-    {
       "cityName": "Berlin",
       "country": "Germany",
       "emoji": "🇩🇪",
@@ -143,18 +131,6 @@
         "lng": "-1.9807773930323695"
       },
       "id": 98443206
-    },
-    {
-      "cityName": "Blazquez",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2023-08-08T23:23:23.538Z",
-      "notes": "",
-      "position": {
-        "lat": "38.46219172306828",
-        "lng": "-5.4518240735353105"
-      },
-      "id": 98443207
     },
     {
       "cityName": "Viseu",
