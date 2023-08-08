@@ -11,6 +11,7 @@ import {
 
 import useCities from "../hooks/useCities";
 import useGeolocation from "../hooks/useGeolocation";
+import useUrlPosition from "../hooks/useUrlPosition";
 
 import Button from "./Button";
 
@@ -23,12 +24,9 @@ function Map() {
     position: geolocationPosition,
     getPosition,
   } = useGeolocation();
+  const [mapLat, mapLng] = useUrlPosition();
 
-  const [searchParams] = useSearchParams();
   const [mapPosition, setMapPosition] = useState([40, 0]);
-
-  const mapLat = searchParams.get("lat");
-  const mapLng = searchParams.get("lng");
 
   useEffect(
     function () {
