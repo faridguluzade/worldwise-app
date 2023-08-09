@@ -1,4 +1,4 @@
-import { createContext, useEffect, useState, useReducer } from "react";
+import { createContext, useEffect, useReducer } from "react";
 
 const BASE_URL = "http://localhost:9000";
 
